@@ -3,5 +3,26 @@
     "next": "^13.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "name": "site-com-next-front-e-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiostreppel/site-com-next-front-e-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiostreppel/site-com-next-front-e-back/issues"
+  },
+  "homepage": "https://github.com/claudiostreppel/site-com-next-front-e-back#readme",
+  "description": ""
 }
